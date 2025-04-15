@@ -1,2 +1,2 @@
 # Foody
-Food Website HTML &amp; CSS
+Food Website HTML & CSS
